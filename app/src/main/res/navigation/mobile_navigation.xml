@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navComponents">
+
+    <fragment
+        android:id="@+id/navComponents"
+        android:name="com.example.my_components.ComponentsFragment"
+        android:label="Átomos"
+        tools:layout="@layout/fragment_components">
+    </fragment>
+
+</navigation>
