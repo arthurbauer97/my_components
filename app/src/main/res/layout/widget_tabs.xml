@@ -15,12 +15,12 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             app:tabGravity="fill"
-            app:tabTextAppearance="@android:style/TextAppearance.Widget.TabWidget"
             app:tabIndicator="@drawable/selected_tab"
             app:tabIndicatorHeight="4dp"
             app:tabInlineLabel="true"
             app:tabMaxWidth="0dp"
             app:tabMode="fixed"
+            app:tabTextAppearance="@android:style/TextAppearance.Widget.TabWidget"
             app:tabTextColor="@color/black" />
     </com.google.android.material.appbar.AppBarLayout>
 
