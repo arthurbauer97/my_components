@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/arthu/my_components/app/src/main/res/drawable/selected_tab.xml" value="0.3828125" />
         <entry key="..\:/Users/arthu/my_components/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
         <entry key="..\:/Users/arthu/my_components/app/src/main/res/layout/fragment_components.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/arthu/my_components/app/src/main/res/layout/fragment_first_tab_example.xml" value="0.276268115942029" />
+        <entry key="..\:/Users/arthu/my_components/app/src/main/res/layout/fragment_second_tab_example.xml" value="0.276268115942029" />
+        <entry key="..\:/Users/arthu/my_components/app/src/main/res/layout/fragment_tabs.xml" value="0.11787072243346007" />
+        <entry key="..\:/Users/arthu/my_components/app/src/main/res/layout/widget_tabs.xml" value="0.1040268456375839" />
         <entry key="..\:/Users/arthu/my_components/app/src/main/res/menu/activity_main_menu.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/arthu/my_components/app/src/main/res/menu/menu_components.xml" value="0.36666666666666664" />
       </map>

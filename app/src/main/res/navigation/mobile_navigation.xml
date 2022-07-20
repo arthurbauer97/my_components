@@ -8,8 +8,17 @@
     <fragment
         android:id="@+id/navComponents"
         android:name="com.example.my_components.ComponentsFragment"
-        android:label="Átomos"
+        android:label="Componentes"
         tools:layout="@layout/fragment_components">
+        <action
+            android:id="@+id/action_navComponents_to_tabsFragment"
+            app:destination="@id/tabsFragment" />
     </fragment>
+
+    <fragment
+        android:id="@+id/tabsFragment"
+        android:name="com.example.my_components.widgets.tabs.TabsFragment"
+        android:label="Tabs"
+        tools:layout="@layout/fragment_tabs" />
 
 </navigation>
